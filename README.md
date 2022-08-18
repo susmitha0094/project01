@@ -1,3 +1,3 @@
 # project01
 python code
-I is a pyhon code
+It is a pyhon code for pracice purpose.
